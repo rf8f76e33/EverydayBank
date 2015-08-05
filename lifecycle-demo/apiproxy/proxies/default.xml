@@ -5,7 +5,14 @@
         <Request/>
         <Response/>
     </PreFlow>
-    <Flows/>
+    <Flows>
+        <Flow name="Name Address">
+            <Description/>
+            <Request/>
+            <Response/>
+            <Condition>(proxy.pathsuffix MatchesPath &quot;/address&quot;) and (request.verb = &quot;GET&quot;)</Condition>
+        </Flow>
+    </Flows>
     <PostFlow name="PostFlow">
         <Request/>
         <Response/>

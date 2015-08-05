@@ -6,7 +6,10 @@
         <Response/>
     </PreFlow>
     <Flows/>
-    <PostFlow name="PostFlow"/>
+    <PostFlow name="PostFlow">
+        <Request/>
+        <Response/>
+    </PostFlow>
     <HTTPTargetConnection>
         <URL>http://data-cosafinity.apigee.net/CatalogService/view/catalogs</URL>
     </HTTPTargetConnection>

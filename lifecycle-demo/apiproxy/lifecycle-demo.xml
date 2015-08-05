@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <APIProxy revision="1" name="lifecycle-demo">
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1434655296509</CreatedAt>
+    <CreatedAt>1438186065256</CreatedAt>
     <CreatedBy>mukundha@apigee.com</CreatedBy>
     <Description></Description>
     <DisplayName>lifecycle-demo</DisplayName>
-    <LastModifiedAt>1434655296509</LastModifiedAt>
+    <LastModifiedAt>1438186065256</LastModifiedAt>
     <LastModifiedBy>mukundha@apigee.com</LastModifiedBy>
     <Policies/>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
-    <Resources/>
+    <Resources>
+        <Resource>jsc://swagger.js</Resource>
+    </Resources>
     <TargetServers/>
     <TargetEndpoints>
         <TargetEndpoint>default</TargetEndpoint>
