@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <APIProxy revision="1" name="lifecycle-demo">
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1438769862074</CreatedAt>
+    <CreatedAt>1438769978154</CreatedAt>
     <CreatedBy>adminui@apigee.com</CreatedBy>
     <Description></Description>
     <DisplayName>lifecycle-demo</DisplayName>
-    <LastModifiedAt>1438769862074</LastModifiedAt>
+    <LastModifiedAt>1438769978154</LastModifiedAt>
     <LastModifiedBy>adminui@apigee.com</LastModifiedBy>
     <Policies/>
     <ProxyEndpoints>
