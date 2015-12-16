@@ -13,7 +13,7 @@
   "paths": {
     "/address": {
       "get": {
-        "description": "==> tbd",
+        "description": "Name Address",
         "parameters": [
           {
             "name": "sample",
